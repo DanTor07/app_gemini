@@ -1,0 +1,34 @@
+# Entorno Virtual
+env/
+venv/
+ENV/
+.venv
+
+# Credenciales y variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Directorios temporales
+.temp/
+tmp/
+temp/
