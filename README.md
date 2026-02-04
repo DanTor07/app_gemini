@@ -124,11 +124,15 @@ python app_gemini.py
 
 ### Salida esperada en terminal:
 
-```
+
+```bash
 🚀 Conectando con el motor de Gemini ...
 
 GEMINI_API_KEY=tu_clave_api_aqui
-<img width="1836" height="921" alt="image" src="https://github.com/user-attachments/assets/a0bf876d-7048-4d5d-90c5-707e8500229c" />
+
+```markdown
+![Evidencia de ejecución](docs/images/evidence.png)
+```
 
 ```
 
