@@ -127,23 +127,9 @@ python app_gemini.py
 ```
 🚀 Conectando con el motor de Gemini ...
 
-==================================================
-✈️  RESPUESTA DE DANI TORRES AGENCIA DE VIAJES
-==================================================
+GEMINI_API_KEY=tu_clave_api_aqui
+<img width="1836" height="921" alt="image" src="https://github.com/user-attachments/assets/a0bf876d-7048-4d5d-90c5-707e8500229c" />
 
-¡Bienvenido! Soy tu asesor experto de Dani Torres Agencia de Viajes. 
-
-Estoy aquí para ayudarte a planificar el viaje de tus sueños. Ya sea que busques 
-playas paradisíacas, montañas majestuosas, ciudades vibrantes o experiencias 
-culturales únicas, tenemos el destino perfecto para ti.
-
-Con acceso a los mejores hoteles, actividades emocionantes y paquetes turísticos 
-personalizados, garantizamos que tu experiencia será inolvidable. 
-
-¿Hacia dónde te gustaría viajar? Cuéntame tus preferencias y te recomendaré 
-las mejores opciones disponibles.
-
-==================================================
 ```
 
 ---
