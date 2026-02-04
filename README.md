@@ -130,11 +130,8 @@ python app_gemini.py
 
 GEMINI_API_KEY=tu_clave_api_aqui
 
-```markdown
-![Evidencia de ejecución](docs/images/evidence.png)
 ```
-
-```
+<img width="1836" height="921" alt="evidence" src="https://github.com/user-attachments/assets/3946a7a5-26c2-425d-9476-bec0f6567190" />
 
 ---
 
